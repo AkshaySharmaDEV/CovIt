@@ -18,7 +18,7 @@ CovIt is 3d bot doctor virtual assistant application, where a human bot named do
 
 ###Block Diagram
 
-![Image](Screenshots/Web 1920 – 2.png)
+<img src="Screenshots/Web 1920 – 2.png"  />
 
 ### Tech Stack
 # Unity Engine
