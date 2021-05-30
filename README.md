@@ -7,10 +7,10 @@ CovIt is 3d bot doctor virtual assistant application, where a human bot named do
 
 ### Screenshots
 
-<img src="Screenshots/Screenshot_20210530-000100.png" height="300em" /> <img src="Screenshots/Screenshot_20210530-000108.png" height="300em" /> <img src="Screenshots/Screenshot_20210530-000257.png" height="300em" /> <img src="Screenshots/WhatsApp Image 2021-05-29 at 21.50.46.jpeg" height="300em" />
+<img src="Screenshots/intro1.gif" height="300em" /> <img src="Screenshots/intro.gif" height="300em" /> <img src="Screenshots/Screenshot_20210530-000100.png" height="300em" /> <img src="Screenshots/Screenshot_20210530-000108.png" height="300em" /> <img src="Screenshots/Screenshot_20210530-000257.png" height="300em" /> <img src="Screenshots/WhatsApp Image 2021-05-29 at 21.50.46.jpeg" height="300em" />
 
 
-[Watch the video presentaion on YouTube](https://www.youtube.com/watch?v=X7KaWGyfjP0)
+[Watch the video presentation on YouTube](https://www.youtube.com/watch?v=X7KaWGyfjP0)
 
 ## Downloads
 
