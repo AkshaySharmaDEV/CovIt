@@ -10,27 +10,9 @@ CovIt is 3d bot doctor virtual assistant application, where a human bot named do
 <img src="Screenshots/intro1.gif" height="300em" /> <img src="Screenshots/intro.gif" height="300em" /> <img src="Screenshots/Screenshot_20210530-000100.png" height="300em" /> <img src="Screenshots/Screenshot_20210530-000108.png" height="300em" /> <img src="Screenshots/Screenshot_20210530-000257.png" height="300em" /> <img src="Screenshots/WhatsApp Image 2021-05-29 at 21.50.46.jpeg" height="300em" />
 
 
-[Watch the video presentation on YouTube](#)
 
 ## Downloads
 
 <a href="https://drive.google.com/file/d/1viGnVDJyu3s9ODzitpR0HBBpB0d7DOYi/view"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
-
-### Tech Stack
-# Unity Engine
-
-3d model and ui integration with oculus modules and IBM watson webhooks
-
-# IBM Watson
-
-NLP, Bot training , integration with twillio for whatsapp api 
-
-# Oculus Lipsync SDK
-
-Lip syncing of model 
-
-# Blender
-
-Chatbot modelling, UI 
 
